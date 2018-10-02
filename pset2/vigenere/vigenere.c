@@ -48,7 +48,7 @@ int main(int argc, string argv[])
                 else
                 {
                     printf("%c", p[i]);
-                    j--;
+                    j=j+1;
                 }
             }
         }
